@@ -1,0 +1,230 @@
+Create a premium, minimalist, light-themed web application for Vallaba Ganapathy Associates.
+
+Design inspiration:
+
+- Apple
+- Muji
+- Architectural Digest
+- Modern architecture studios
+- Luxury building material brands
+
+Avoid:
+
+- Dark themes
+- Bright colors
+- Flashy animations
+- Typical hardware shop websites
+- Marketplace clutter
+- E-commerce overload
+
+Use:
+
+- Warm white backgrounds
+- Soft beige tones
+- Light grey accents
+- Elegant typography
+- Large whitespace
+- Smooth scrolling
+- Minimalist cards
+- Premium photography
+
+The overall feeling should be:
+
+Trust.
+Craftsmanship.
+Quality.
+Timelessness.
+
+--------------------------------------------------
+
+HOME PAGE
+
+Hero Section
+
+Large elegant heading:
+
+Building Materials For Projects That Last.
+
+Subheading:
+
+Premium steel, cement, paints, sand and construction materials delivered across Chennai.
+
+Buttons:
+
+Browse Products
+
+Request Quote
+
+Use a clean premium construction material image.
+
+No busy backgrounds.
+
+No excessive graphics.
+
+--------------------------------------------------
+
+PRODUCTS
+
+Display categories elegantly:
+
+Steel & TMT Bars
+
+Structural Steel
+
+MS Pipes
+
+Cement
+
+River Sand
+
+M Sand
+
+Asian Paints
+
+Hardware Materials
+
+Each category should open a clean product page.
+
+Products should be displayed like premium collections rather than shopping items.
+
+--------------------------------------------------
+
+ORDER ENQUIRY
+
+Customers can:
+
+- Select materials
+- Enter quantity
+- Add delivery location
+- Add project notes
+- Submit order request
+
+Important:
+
+No online payment.
+
+Show message:
+
+"Our team will contact you with pricing, transportation charges and delivery details before confirmation."
+
+--------------------------------------------------
+
+PROJECT DISCUSSION
+
+Simple form:
+
+Name
+
+Phone Number
+
+Project Type
+
+Material Requirement
+
+Message
+
+Button:
+
+Discuss My Project
+
+--------------------------------------------------
+
+PROJECT GALLERY
+
+Large image-based layout.
+
+Show:
+
+Residential Projects
+
+Industrial Buildings
+
+Warehouses
+
+Steel Structures
+
+Material Deliveries
+
+Minimal captions.
+
+Architectural presentation style.
+
+--------------------------------------------------
+
+DELIVERY SECTION
+
+Title:
+
+Delivered To Your Site.
+
+Text:
+
+Transportation charges vary based on location and quantity.
+
+Charges will be communicated before confirmation.
+
+Materials are delivered directly to project locations.
+
+--------------------------------------------------
+
+ABOUT US
+
+Introduce Vallaba Ganapathy Associates as a trusted supplier for housing and industrial needs.
+
+Focus on:
+
+Quality Materials
+
+Reliable Supply
+
+Project Support
+
+Timely Delivery
+
+Long-Term Relationships
+
+--------------------------------------------------
+
+CONTACT
+
+Phone:
+9381142729
+9884828002
+
+Email:
+ohmvallabaganapathy@gmail.com
+
+Address:
+No-129/2 Manthope Road,
+Athipet,
+Maduravoyal (PO),
+Ambattur TK,
+Chennai – 95
+
+Include:
+
+WhatsApp button
+
+Call button
+
+Google Maps integration
+
+--------------------------------------------------
+
+STYLE REQUIREMENTS
+
+Minimal.
+
+Elegant.
+
+Light.
+
+Timeless.
+
+Professional.
+
+Responsive.
+
+The visitor should feel:
+
+"This is a trusted construction materials partner, not just a hardware store."
