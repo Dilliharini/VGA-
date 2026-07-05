@@ -23,9 +23,7 @@
     "skipLibCheck": true,
     "target": "es2022",
     "types": ["node"],
-    "tsBuildInfoFile": ".tsbuildinfo",
-    "outDir": "dist",
-    "rootDir": "src"
-  },
-  "include": ["src"]
+    "tsBuildInfoFile": ".tsbuildinfo"
+   },
+   "include": ["src", "api"]
 }
