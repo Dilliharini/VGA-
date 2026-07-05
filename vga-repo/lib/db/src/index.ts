@@ -1,6 +1,6 @@
 import { drizzle } from "drizzle-orm/node-postgres";
 import pg from "pg";
-import * as schema from "./schema";
+import * as schema from "./schema/index.js";
 
 const { Pool } = pg;
 
@@ -35,5 +35,5 @@ if (process.env.DATABASE_URL) {
 export { pool };
 export const db = dbObj;
 
-export { enquiriesTable, insertEnquirySchema, type InsertEnquiry, type Enquiry } from "./schema/enquiries";
-export * from "./schema";
+export { enquiriesTable, insertEnquirySchema, type InsertEnquiry, type Enquiry } from "./schema/enquiries.js";
+export * from "./schema/index.js";
