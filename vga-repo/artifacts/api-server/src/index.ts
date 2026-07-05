@@ -1,8 +1,8 @@
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
-import app from "./app";
-import { logger } from "./lib/logger";
+import app from "./app.js";
+import { logger } from "./lib/logger.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);

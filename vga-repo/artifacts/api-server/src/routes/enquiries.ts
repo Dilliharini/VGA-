@@ -3,7 +3,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { Router, type IRouter } from "express";
 import { db, enquiriesTable } from "@workspace/db";
-import { logger } from "../lib/logger";
+import { logger } from "../lib/logger.js";
 import { Resend } from "resend";
 
 const router: IRouter = Router();
