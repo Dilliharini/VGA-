@@ -5,6 +5,9 @@ dist
 tmp
 out-tsc
 *.tsbuildinfo
+/artifacts/api-server/api/*.mjs
+/artifacts/api-server/api/*.mjs.map
+
 .expo
 .expo-shared
 
