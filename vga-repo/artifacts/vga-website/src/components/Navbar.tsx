@@ -51,9 +51,14 @@ export function Navbar() {
             alt="Vallaba Ganapathy Associates" 
             className="h-10 w-auto object-contain rounded-sm"
           />
-          <span className="font-serif font-semibold text-lg hidden sm:block tracking-tight text-foreground">
-            VGA
-          </span>
+          <div className="hidden sm:flex flex-col leading-tight">
+            <span className="font-serif font-semibold text-lg tracking-tight text-foreground">
+              VGA
+            </span>
+            <span className="text-[10px] font-medium tracking-wide text-muted-foreground uppercase">
+              Vallaba Ganapathy Associates
+            </span>
+          </div>
         </div>
 
         {/* Desktop Nav */}
